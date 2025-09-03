@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+<img width="680" height="716" alt="image" src="https://github.com/user-attachments/assets/f56ec983-d180-4a8e-97e8-37c4ff377120" />
